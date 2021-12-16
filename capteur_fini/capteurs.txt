@@ -1,0 +1,3 @@
+30 gaz blocf 4 50 1
+444 fumé blocd 4 50 1
+55 feu blocg 10 45 1

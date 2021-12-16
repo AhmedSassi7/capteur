@@ -1,0 +1,16 @@
+ee Gaz ee 10 20 0
+ 777 Humiditer blocd 10 30 0
+ 777 Gaz blovh 2 50 1
+ 777 Gaz blovh 2 50 1
+ 777 Gaz blovh 2 50 1
+ 777 Gaz blovh 2 50 1
+ 888 Gaz block 10 40 666
+ 555 Temperature blocb 10 40 0
+ 41 Gaz blocg 10 60 0
+ 777 Gaz blocm 2 20 1
+ 555 Gaz blocc 10 60 1
+ 555 Gaz blocc 10 60 1
+ 555 Gaz blocc 10 60 1
+ 55 Temperature blocc 10 60 1
+ 989 Temperature blocty 1 50 1
+ 
